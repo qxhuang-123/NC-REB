@@ -12,3 +12,4 @@ __pycache__/
 research/four_methods_batch_20261109/jobs/
 research/four_methods_batch_20261109/*.log
 research/four_methods_batch_20261109/*.resource.json
+*.lock
