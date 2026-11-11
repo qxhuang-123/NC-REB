@@ -1,0 +1,58 @@
+[
+  {
+    "city": "shenzhen",
+    "role": "planning_input",
+    "path": "research/history_20261023/outputs/shenzhen_shared_capital_observed_case.npz",
+    "bytes": 1970115,
+    "sha256": "690afdf4ee1635a461aa70ccb9d0180a4f818e84387baa4e6f6bc248047931a2"
+  },
+  {
+    "city": "beijing",
+    "role": "planning_input",
+    "path": "research/fourcity_pilot_20261101/inputs/beijing_case.npz",
+    "bytes": 2795746,
+    "sha256": "1ed6f34eeadd39930135d3bdf5e7732cbb6b33d76c7647c2809b64ebeadbaca7"
+  },
+  {
+    "city": "shanghai",
+    "role": "planning_input",
+    "path": "research/fourcity_pilot_20261101/inputs/shanghai_case.npz",
+    "bytes": 3350000,
+    "sha256": "3075c9e3a4e565f43db42b3953f7e804e6cd4802dc677ac5b64a1887de4c978a"
+  },
+  {
+    "city": "chongqing",
+    "role": "planning_input",
+    "path": "research/fourcity_pilot_20261101/inputs/chongqing_case.npz",
+    "bytes": 3366531,
+    "sha256": "eb17c24f05f5dc3b48a4a08634af045fed791ede425fd38358b4ed32ecdd19fa"
+  },
+  {
+    "city": "shenzhen",
+    "role": "full_source_database",
+    "path": "raw/charging_station_shenzhen.db",
+    "bytes": 473595904,
+    "sha256": "c5274ba646d7d20739974e840b31b9874883e30a4e14a9238cc8494c4ee64eca"
+  },
+  {
+    "city": "beijing",
+    "role": "full_source_database",
+    "path": "raw/charging_station_beijing.db",
+    "bytes": 508825600,
+    "sha256": "961389ea76e7eacafea6aa37aad0ca7a5580d3239553d145ed4507f2cd64358f"
+  },
+  {
+    "city": "shanghai",
+    "role": "full_source_database",
+    "path": "raw/charging_station_shanghai.db",
+    "bytes": 736473088,
+    "sha256": "e4ce277086809a11a5d72cf1ad24ce33ee9c1b8b2310cd716f549bf19343a889"
+  },
+  {
+    "city": "chongqing",
+    "role": "full_source_database",
+    "path": "raw/charging_station_chongqing.db",
+    "bytes": 526389248,
+    "sha256": "99c50a062be5fda91210ef3fb82b0437fafee1746e0ef7f503efd559a3f3a4b0"
+  }
+]

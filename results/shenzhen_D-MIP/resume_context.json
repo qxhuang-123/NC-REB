@@ -1,0 +1,9 @@
+{
+  "reason": "Windows transient progress-file PermissionError stopped supervisor",
+  "settled": 19,
+  "previous_wall_seconds_lower_bound": 1882.7436479,
+  "previous_core_seconds_lower_bound": 1882.6104282000001,
+  "prior_peak_memory_measured": false,
+  "archive": "<local>/20261110_progress_read_conflict",
+  "timing_note": "Original segment wall and peak were not recorded at interruption. Cumulative times are lower bounds."
+}

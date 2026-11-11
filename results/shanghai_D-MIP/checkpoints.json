@@ -1,0 +1,20 @@
+[
+  {
+    "queries": 31,
+    "settled": 31,
+    "wall_seconds": 2108.040650499999,
+    "worker_core_seconds": 2106.9466678,
+    "query_seconds": 2106.8495537,
+    "peak_job_commit_bytes": 9360261120,
+    "continuation": {}
+  },
+  {
+    "queries": 62,
+    "settled": 62,
+    "wall_seconds": 2259.1357045999976,
+    "worker_core_seconds": 2258.0885264,
+    "query_seconds": 2257.914865599999,
+    "peak_job_commit_bytes": 9360261120,
+    "continuation": {}
+  }
+]

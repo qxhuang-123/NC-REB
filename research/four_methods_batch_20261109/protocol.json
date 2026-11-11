@@ -1,0 +1,33 @@
+{
+  "cities": [
+    "shenzhen",
+    "beijing",
+    "shanghai",
+    "chongqing"
+  ],
+  "methods": [
+    "CR-BBC",
+    "D-MIP",
+    "MILP",
+    "HR-MIP"
+  ],
+  "queries": 154,
+  "progress": [
+    31,
+    62,
+    93,
+    124,
+    154
+  ],
+  "memory_bytes": 12000000000,
+  "threads": 1,
+  "gap": 0,
+  "time_limit": {
+    "MILP": null,
+    "D-MIP": null,
+    "HR-MIP": null,
+    "CR-BBC": 3600
+  },
+  "note": "New cohort with measured progress checkpoints. Single sequential queue. Largest explicit component model retained across queries, other explicit component models rebuilt with starts. Same support and investment menus; raw formulation retains explicit time rows.",
+  "old_results": "Historical cohort retained separately"
+}

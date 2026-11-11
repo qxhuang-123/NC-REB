@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the code release and original source dataset."
+title: "NC-REB: common-capital EV charging infrastructure planning"
+type: software
+version: 0.1.0
+date-released: 2026-11-11
+license: MIT
+repository-code: "https://github.com/qxhuang-123/NC-REB"
+authors:
+  - name: "NC-REB contributors"

@@ -1,0 +1,18 @@
+{
+  "title": "NC-REB reproducibility code for common-capital EV charging infrastructure planning",
+  "upload_type": "software",
+  "description": "Exact formulations and CR-BBC implementation, frozen four-city results and resource protocol. Source data is distributed separately.",
+  "creators": [
+    {
+      "name": "qxhuang-123"
+    }
+  ],
+  "license": "MIT",
+  "related_identifiers": [
+    {
+      "identifier": "10.6084/m9.figshare.32917595.v1",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ]
+}

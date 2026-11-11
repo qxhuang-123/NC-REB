@@ -1,0 +1,113 @@
+{
+  "city": "shanghai",
+  "method": "MILP",
+  "records": [
+    {
+      "policy": "onsite",
+      "pressure_percent": 100,
+      "access_percent": 200,
+      "status": "optimal",
+      "cost": 0,
+      "bound": 0,
+      "seconds": 5.1898066,
+      "build_seconds": 0.0,
+      "solve_seconds": 0.0,
+      "original_graph_verified": true
+    },
+    {
+      "policy": "onsite",
+      "pressure_percent": 100,
+      "access_percent": 175,
+      "status": "optimal",
+      "cost": 0,
+      "bound": 0,
+      "seconds": 0.027856400000000114,
+      "build_seconds": 0.0,
+      "solve_seconds": 0.0,
+      "original_graph_verified": true
+    },
+    {
+      "policy": "onsite",
+      "pressure_percent": 100,
+      "access_percent": 150,
+      "status": "optimal",
+      "cost": 0,
+      "bound": 0,
+      "seconds": 0.018596200000000174,
+      "build_seconds": 0.0,
+      "solve_seconds": 0.0,
+      "original_graph_verified": true
+    },
+    {
+      "policy": "onsite",
+      "pressure_percent": 100,
+      "access_percent": 125,
+      "status": "optimal",
+      "cost": 0,
+      "bound": 0,
+      "seconds": 0.017619599999999735,
+      "build_seconds": 0.0,
+      "solve_seconds": 0.0,
+      "original_graph_verified": true
+    },
+    {
+      "policy": "onsite",
+      "pressure_percent": 100,
+      "access_percent": 100,
+      "status": "optimal",
+      "cost": 0,
+      "bound": 0,
+      "seconds": 0.018362699999999954,
+      "build_seconds": 0.0,
+      "solve_seconds": 0.0,
+      "original_graph_verified": true
+    },
+    {
+      "policy": "onsite",
+      "pressure_percent": 100,
+      "access_percent": 75,
+      "status": "optimal",
+      "cost": 0,
+      "bound": 0,
+      "seconds": 0.017077400000000686,
+      "build_seconds": 0.0,
+      "solve_seconds": 0.0,
+      "original_graph_verified": true
+    },
+    {
+      "policy": "onsite",
+      "pressure_percent": 100,
+      "access_percent": 50,
+      "status": "optimal",
+      "cost": 0,
+      "bound": 0,
+      "seconds": 0.0177662999999999,
+      "build_seconds": 0.0,
+      "solve_seconds": 0.0,
+      "original_graph_verified": true
+    },
+    {
+      "policy": "onsite",
+      "pressure_percent": 105,
+      "access_percent": 200,
+      "status": "optimal",
+      "cost": 1144,
+      "bound": 1144,
+      "seconds": 229.54448910000002,
+      "build_seconds": 54.065054200000006,
+      "solve_seconds": 173.2222844,
+      "original_graph_verified": true
+    }
+  ],
+  "source_sha256": "3075c9e3a4e565f43db42b3953f7e804e6cd4802dc677ac5b64a1887de4c978a",
+  "prep_seconds": 0.22387829999999997,
+  "elapsed": 235.1188428,
+  "active": {
+    "policy": "onsite",
+    "pressure": 105,
+    "access": 175,
+    "block": 0,
+    "phase": "build"
+  },
+  "complete": false
+}

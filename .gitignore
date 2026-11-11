@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+*.npz
+*.npy
+*.db
+*.sqlite*
+*.zip
+*.lic
+.env*
+research/four_methods_batch_20261109/jobs/
+research/four_methods_batch_20261109/*.log
+research/four_methods_batch_20261109/*.resource.json

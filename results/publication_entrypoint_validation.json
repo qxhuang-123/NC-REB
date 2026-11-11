@@ -1,0 +1,7 @@
+{
+  "city": "shenzhen",
+  "queries": 154,
+  "mismatches": 0,
+  "feasible_plans_verified": 56,
+  "note": "Validation of relocated public entry point; excluded from paper timings"
+}

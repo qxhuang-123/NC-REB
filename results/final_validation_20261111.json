@@ -1,0 +1,171 @@
+{
+  "comparisons": 1410,
+  "mismatches": [],
+  "states": {
+    "complete": 10,
+    "ML": 6
+  },
+  "settled": 2026,
+  "summary": [
+    {
+      "city": "shenzhen",
+      "method": "MILP",
+      "state": "complete",
+      "settled": 154,
+      "seconds": 5958.920280099999,
+      "peak_MiB": 8388.26953125,
+      "feasible_verified": 56,
+      "optimal": 56
+    },
+    {
+      "city": "shenzhen",
+      "method": "D-MIP",
+      "state": "complete",
+      "settled": 154,
+      "seconds": 8569.4190439,
+      "peak_MiB": 2995.08203125,
+      "feasible_verified": 56,
+      "optimal": 56
+    },
+    {
+      "city": "shenzhen",
+      "method": "HR-MIP",
+      "state": "complete",
+      "settled": 154,
+      "seconds": 11097.768969,
+      "peak_MiB": 6302.69140625,
+      "feasible_verified": 56,
+      "optimal": 56
+    },
+    {
+      "city": "shenzhen",
+      "method": "CR-BBC",
+      "state": "complete",
+      "settled": 154,
+      "seconds": 277.8336503,
+      "peak_MiB": 399.46484375,
+      "feasible_verified": 56,
+      "optimal": 56
+    },
+    {
+      "city": "beijing",
+      "method": "MILP",
+      "state": "ML",
+      "settled": 88,
+      "seconds": 2902.8540987000015,
+      "peak_MiB": 11676.93359375,
+      "feasible_verified": 24,
+      "optimal": 24
+    },
+    {
+      "city": "beijing",
+      "method": "D-MIP",
+      "state": "ML",
+      "settled": 116,
+      "seconds": 20898.406583999997,
+      "peak_MiB": 11458.21875,
+      "feasible_verified": 44,
+      "optimal": 44
+    },
+    {
+      "city": "beijing",
+      "method": "HR-MIP",
+      "state": "complete",
+      "settled": 154,
+      "seconds": 5424.036636600002,
+      "peak_MiB": 10838.6328125,
+      "feasible_verified": 44,
+      "optimal": 44
+    },
+    {
+      "city": "beijing",
+      "method": "CR-BBC",
+      "state": "complete",
+      "settled": 154,
+      "seconds": 430.5532041000006,
+      "peak_MiB": 447.5859375,
+      "feasible_verified": 44,
+      "optimal": 44
+    },
+    {
+      "city": "shanghai",
+      "method": "MILP",
+      "state": "ML",
+      "settled": 8,
+      "seconds": 248.65625839999848,
+      "peak_MiB": 11458.89453125,
+      "feasible_verified": 8,
+      "optimal": 8
+    },
+    {
+      "city": "shanghai",
+      "method": "D-MIP",
+      "state": "ML",
+      "settled": 88,
+      "seconds": 3420.4408608999947,
+      "peak_MiB": 11445.125,
+      "feasible_verified": 32,
+      "optimal": 32
+    },
+    {
+      "city": "shanghai",
+      "method": "HR-MIP",
+      "state": "ML",
+      "settled": 89,
+      "seconds": 3120.0249755999976,
+      "peak_MiB": 11452.39453125,
+      "feasible_verified": 0,
+      "optimal": 33
+    },
+    {
+      "city": "shanghai",
+      "method": "CR-BBC",
+      "state": "complete",
+      "settled": 154,
+      "seconds": 96.17633190000197,
+      "peak_MiB": 584.359375,
+      "feasible_verified": 54,
+      "optimal": 54
+    },
+    {
+      "city": "chongqing",
+      "method": "MILP",
+      "state": "ML",
+      "settled": 97,
+      "seconds": 4876.908491399998,
+      "peak_MiB": 11449.19921875,
+      "feasible_verified": 41,
+      "optimal": 41
+    },
+    {
+      "city": "chongqing",
+      "method": "D-MIP",
+      "state": "complete",
+      "settled": 154,
+      "seconds": 10565.138145000004,
+      "peak_MiB": 7913.2421875,
+      "feasible_verified": 64,
+      "optimal": 64
+    },
+    {
+      "city": "chongqing",
+      "method": "HR-MIP",
+      "state": "complete",
+      "settled": 154,
+      "seconds": 3791.013371599998,
+      "peak_MiB": 7245.49609375,
+      "feasible_verified": 64,
+      "optimal": 64
+    },
+    {
+      "city": "chongqing",
+      "method": "CR-BBC",
+      "state": "complete",
+      "settled": 154,
+      "seconds": 120.02850590000162,
+      "peak_MiB": 602.59765625,
+      "feasible_verified": 64,
+      "optimal": 64
+    }
+  ]
+}

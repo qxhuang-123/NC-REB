@@ -1,0 +1,11 @@
+{
+  "exit_code": 1,
+  "timeout": false,
+  "cold_seconds": 3420.4408608999947,
+  "memory_limit_bytes": 12000000000,
+  "enforced_limit_bytes": 11999997952,
+  "peak_job_commit_bytes": 12001083392,
+  "job_limit_readback_verified": true,
+  "time_limit_seconds": null,
+  "continuation": {}
+}

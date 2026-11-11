@@ -1,0 +1,47 @@
+[
+  {
+    "queries": 31,
+    "settled": 31,
+    "wall_seconds": 1561.7525262000054,
+    "worker_core_seconds": 1560.6164012000002,
+    "query_seconds": 1560.5174026,
+    "peak_job_commit_bytes": 4578889728,
+    "continuation": {}
+  },
+  {
+    "queries": 62,
+    "settled": 62,
+    "wall_seconds": 1640.162041800002,
+    "worker_core_seconds": 1638.9400322000001,
+    "query_seconds": 1638.7628663999994,
+    "peak_job_commit_bytes": 4578889728,
+    "continuation": {}
+  },
+  {
+    "queries": 93,
+    "settled": 93,
+    "wall_seconds": 2460.9662169000003,
+    "worker_core_seconds": 2459.7233117,
+    "query_seconds": 2459.041171499999,
+    "peak_job_commit_bytes": 4872613888,
+    "continuation": {}
+  },
+  {
+    "queries": 124,
+    "settled": 124,
+    "wall_seconds": 6915.532452800006,
+    "worker_core_seconds": 6914.4503731,
+    "query_seconds": 6913.673287800001,
+    "peak_job_commit_bytes": 6970339328,
+    "continuation": {}
+  },
+  {
+    "queries": 154,
+    "settled": 154,
+    "wall_seconds": 10564.525175100003,
+    "worker_core_seconds": 10563.4320308,
+    "query_seconds": 10562.560535300003,
+    "peak_job_commit_bytes": 8297635840,
+    "continuation": {}
+  }
+]

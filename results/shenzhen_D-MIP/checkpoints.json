@@ -1,0 +1,87 @@
+[
+  {
+    "queries": 31,
+    "settled": 31,
+    "wall_seconds": 726.1384847,
+    "worker_core_seconds": 725.0140149,
+    "query_seconds": 2306.0266998,
+    "peak_job_commit_bytes": 2022670336,
+    "continuation": {
+      "reason": "Windows transient progress-file PermissionError stopped supervisor",
+      "settled": 19,
+      "previous_wall_seconds_lower_bound": 1882.7436479,
+      "previous_core_seconds_lower_bound": 1882.6104282000001,
+      "prior_peak_memory_measured": false,
+      "archive": "<local>/20261110_progress_read_conflict",
+      "timing_note": "Original segment wall and peak were not recorded at interruption. Cumulative times are lower bounds."
+    }
+  },
+  {
+    "queries": 62,
+    "settled": 62,
+    "wall_seconds": 1508.3943901,
+    "worker_core_seconds": 1507.2548167,
+    "query_seconds": 3088.2076500999992,
+    "peak_job_commit_bytes": 2022670336,
+    "continuation": {
+      "reason": "Windows transient progress-file PermissionError stopped supervisor",
+      "settled": 19,
+      "previous_wall_seconds_lower_bound": 1882.7436479,
+      "previous_core_seconds_lower_bound": 1882.6104282000001,
+      "prior_peak_memory_measured": false,
+      "archive": "<local>/20261110_progress_read_conflict",
+      "timing_note": "Original segment wall and peak were not recorded at interruption. Cumulative times are lower bounds."
+    }
+  },
+  {
+    "queries": 93,
+    "settled": 93,
+    "wall_seconds": 2198.5315479,
+    "worker_core_seconds": 2197.261644,
+    "query_seconds": 3778.025645599999,
+    "peak_job_commit_bytes": 2544500736,
+    "continuation": {
+      "reason": "Windows transient progress-file PermissionError stopped supervisor",
+      "settled": 19,
+      "previous_wall_seconds_lower_bound": 1882.7436479,
+      "previous_core_seconds_lower_bound": 1882.6104282000001,
+      "prior_peak_memory_measured": false,
+      "archive": "<local>/20261110_progress_read_conflict",
+      "timing_note": "Original segment wall and peak were not recorded at interruption. Cumulative times are lower bounds."
+    }
+  },
+  {
+    "queries": 124,
+    "settled": 124,
+    "wall_seconds": 5685.8024086000005,
+    "worker_core_seconds": 5684.5212032,
+    "query_seconds": 7265.213825,
+    "peak_job_commit_bytes": 2851483648,
+    "continuation": {
+      "reason": "Windows transient progress-file PermissionError stopped supervisor",
+      "settled": 19,
+      "previous_wall_seconds_lower_bound": 1882.7436479,
+      "previous_core_seconds_lower_bound": 1882.6104282000001,
+      "prior_peak_memory_measured": false,
+      "archive": "<local>/20261110_progress_read_conflict",
+      "timing_note": "Original segment wall and peak were not recorded at interruption. Cumulative times are lower bounds."
+    }
+  },
+  {
+    "queries": 154,
+    "settled": 154,
+    "wall_seconds": 8569.0115142,
+    "worker_core_seconds": 8567.9092333,
+    "query_seconds": 10148.505177299996,
+    "peak_job_commit_bytes": 3140571136,
+    "continuation": {
+      "reason": "Windows transient progress-file PermissionError stopped supervisor",
+      "settled": 19,
+      "previous_wall_seconds_lower_bound": 1882.7436479,
+      "previous_core_seconds_lower_bound": 1882.6104282000001,
+      "prior_peak_memory_measured": false,
+      "archive": "<local>/20261110_progress_read_conflict",
+      "timing_note": "Original segment wall and peak were not recorded at interruption. Cumulative times are lower bounds."
+    }
+  }
+]

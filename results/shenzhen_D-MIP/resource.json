@@ -1,0 +1,19 @@
+{
+  "exit_code": 0,
+  "timeout": false,
+  "cold_seconds": 8569.4190439,
+  "memory_limit_bytes": 12000000000,
+  "enforced_limit_bytes": 11999997952,
+  "peak_job_commit_bytes": 3140571136,
+  "job_limit_readback_verified": true,
+  "time_limit_seconds": null,
+  "continuation": {
+    "reason": "Windows transient progress-file PermissionError stopped supervisor",
+    "settled": 19,
+    "previous_wall_seconds_lower_bound": 1882.7436479,
+    "previous_core_seconds_lower_bound": 1882.6104282000001,
+    "prior_peak_memory_measured": false,
+    "archive": "<local>/20261110_progress_read_conflict",
+    "timing_note": "Original segment wall and peak were not recorded at interruption. Cumulative times are lower bounds."
+  }
+}
