@@ -17,7 +17,7 @@ The frozen experiment has 154 contracts per city: two engineering policies, elev
 
 Python 3.9 was used. Install `requirements.txt`. Gurobi requires a valid license. Windows is required for the measured Job-object resource controller.
 
-Extract `NCREB_four_city_planning_inputs.zip` at the repository root. Required paths and SHA256 values are in `data/manifest.json`. The raw four-city databases and all returned engineering vectors are supplied in separate data archives. Their Zenodo deposition is pending account authorization. Source observations remain available at the DOI above.
+Download `NCREB_four_city_planning_inputs.zip` from the [v0.1.0 release](https://github.com/qxhuang-123/NC-REB/releases/tag/v0.1.0) and extract it at the repository root. Required paths and SHA256 values are in `data/manifest.json`. The raw four-city databases and all returned engineering vectors are supplied in separate data archives. The full-database Zenodo deposition is pending account authorization; the planning-input archive is also available as a GitHub release asset. Source observations remain available at the DOI above.
 
 ```bash
 python run_experiments.py --check-inputs
